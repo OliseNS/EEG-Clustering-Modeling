@@ -1,5 +1,5 @@
 # %% MODULE BEGINS
-module_name = 'module_PA4'
+module_name = 'MindCluster'
 
 '''
 Version: 1.1
@@ -8,7 +8,7 @@ Description:
     Model and Assessment with Visual Comparisons.
 
 Authors:
-    NeNai: Olisemeka Nmarkwe and Sujana Mehta. (W0762669 and W0757459 respectively)
+    NeNai: Olisemeka Nmarkwe
 
 Date Created     :  11/25/2024
 Date Last Updated:  12/1/2024
